@@ -15,7 +15,7 @@ This is the Rust Version. For the original python version see and the companion 
 
 
 ```
-  test.sh
+  ./test.sh
 ```
 
 
