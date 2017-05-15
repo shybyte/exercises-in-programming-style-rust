@@ -1,0 +1,6 @@
+[package]
+name = "exercises_in_programming_style_rust"
+version = "0.1.0"
+authors = ["shybyte"]
+
+[dependencies]
