@@ -17,3 +17,12 @@ This is the Rust Version. For the original python version see and the companion 
 ```
   test.sh
 ```
+
+
+## License
+
+MIT
+
+## Copyright
+
+Copyright (c) 2017 Marco Stahl
