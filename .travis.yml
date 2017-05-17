@@ -9,3 +9,5 @@ matrix:
 
 
 script: ./test.sh
+
+before_install: sudo apt-get install -qq time
