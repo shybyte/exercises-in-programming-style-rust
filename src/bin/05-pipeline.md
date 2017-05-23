@@ -11,3 +11,6 @@ Possible names:
 - Candy factory
 - Functional
 - Pipeline
+
+
+[Example Code](05-pipeline.rs)

@@ -10,3 +10,5 @@ Possible names:
 
 - Cookbook
 - Procedural
+
+[Example Code](04-cookbook.rs)

@@ -17,3 +17,5 @@ Possible names:
 - Things
 - Object-oriented style
 - The Kingdom of Nouns (http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+
+[Example Code](10-things.rs)

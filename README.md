@@ -13,26 +13,26 @@ This is the Rust Version. For the original python version see and the companion 
 
 ### Part 2 - Basic Styles
 
-* [Monolithic](src/bin/03-monolith.md)
-* [Cookbook](src/bin/04-cookbook.md)
-* [Pipeline](src/bin/05-pipeline.md)
-* [Code Golf](src/bin/06-code-golf.md)
+* [Monolithic](src/bin/03-monolith.md) - One big program with no named abstractions and no clever library usage
+* [Cookbook](src/bin/04-cookbook.md) - Procedural code with global state
+* [Pipeline](src/bin/05-pipeline.md) - (Impure) Nested Functions
+* [Code Golf](src/bin/06-code-golf.md) - Short code by clever std library usage 
 
 ### Part 3 - Function Composition
 
 * Infinite Mirror
 * Kick Forward
-* [The One](src/bin/09-the-one.md)
+* [The One](src/bin/09-the-one.md) - Kind of a Monad, Functional composition
 
 
 ### Part 4 - Objects and Object Interaction
 
-* [Things](src/bin/10-things.md)
+* [Things](src/bin/10-things.md) - Object-oriented 
 * Letterbox
 * Closed Maps
 * Abstract Things
 * Hollywood
-* Bulleting Board
+* Bulletin Board
 
 ### Part 5 - Reflection and Metaprogramming
 
@@ -62,14 +62,14 @@ This is the Rust Version. For the original python version see and the companion 
 * Map Reduce
 * Double Map Reduce
 
-# Part 9 - Interactivity
+### Part 9 - Interactivity
 
 * Trinity
 * Restful
 
-# Part 10 - Rusty
+### Part 10 - Rusty
 
-* [Rusty](src/bin/42-rusty.md)
+* [Rusty](src/bin/42-rusty.md) - Idiomatic efficient Rust solution
 
 
 

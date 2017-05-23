@@ -1,4 +1,4 @@
-# Style #6 - Rusty
+# Style #42 - Rusty
 
 Constraints:
 
@@ -7,3 +7,5 @@ Constraints:
   long as it has no negative impact on performance or readability
 - Minimize memory usage without scarifying readability 
 - Prevent panic by handling all possible errors and avoiding "unwrap" 
+
+[Example Code](42-rusty.rs)
