@@ -13,7 +13,65 @@ This is the Rust Version. For the original python version see and the companion 
 
 ### Part 2 - Basic Styles
 
-* [Monolithic](src/bin/03-monolith.rs)
+* [Monolithic](src/bin/03-monolith.md)
+* [Cookbook](src/bin/04-cookbook.md)
+* [Pipeline](src/bin/05-pipeline.md)
+* [Code Golf](src/bin/06-code-golf.md)
+
+### Part 3 - Function Composition
+
+* Infinite Mirror
+* Kick Forward
+* [The One](src/bin/09-the-one.md)
+
+
+### Part 4 - Objects and Object Interaction
+
+* [Things](src/bin/10-things.md)
+* Letterbox
+* Closed Maps
+* Abstract Things
+* Hollywood
+* Bulleting Board
+
+### Part 5 - Reflection and Metaprogramming
+
+* Introspective
+* Reflective
+* Aspects
+* Plugins
+
+### Part 6 - Adversity 
+
+* Constructivist
+* Tantrum
+* Passive Aggressive
+* Declared Intentions
+* Quarantine
+
+### Part 7 - Data-Centric
+
+* Persistent Table
+* Spreadsheet
+* Lazy Rivers
+
+### Part 8 - Concurrency
+
+* Actors
+* Dataspaces
+* Map Reduce
+* Double Map Reduce
+
+# Part 9 - Interactivity
+
+* Trinity
+* Restful
+
+# Part 10 - Rusty
+
+* [Rusty](src/bin/42-rusty.md)
+
+
 
 
 ## Run one variant
