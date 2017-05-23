@@ -4,6 +4,18 @@ Comprehensive collection of well-known, and not so well-known, programming style
 This is the Rust Version. For the original python version see and the companion book see
 [https://github.com/crista/exercises-in-programming-style](https://github.com/crista/exercises-in-programming-style).
 
+## List of Exercises
+
+### Part 1 - Historical
+
+* Good old times
+* Go Forth
+
+### Part 2 - Basic Styles
+
+* [Monolithic](src/bin/03-monolith.rs)
+
+
 ## Run one variant
 
 ```
