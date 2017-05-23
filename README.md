@@ -8,10 +8,14 @@ This is the Rust Version. For the original python version and the companion book
 
 ### Part 1 - Historical
 
-* Good old times
-* Go Forth
+Feel the pain of programming in 1970. 
+
+* Good old times - Minimal memory and no identifiers
+* Go Forth - Working on a stack
 
 ### Part 2 - Basic Styles
+
+I happens every day. You have seen it already.
 
 * [Monolithic](src/bin/03-monolith.md) - One big program with no named abstractions and no clever library usage
 * [Cookbook](src/bin/04-cookbook.md) - Procedural code with global state
@@ -20,40 +24,50 @@ This is the Rust Version. For the original python version and the companion book
 
 ### Part 3 - Function Composition
 
-* Infinite Mirror
-* Kick Forward
+Combine functions in interesting ways.
+
+* Infinite Mirror - Recursively, call yourself.
+* Kick Forward - Callback style like in good old javascript
 * [The One](src/bin/09-the-one.md) - Kind of a Monad, Functional composition
 
 
 ### Part 4 - Objects and Object Interaction
 
+Stateful encapsulated things talk with other encapsulated stateful things. 
+
 * [Things](src/bin/10-things.md) - Object-oriented 
-* Letterbox
-* Closed Maps
-* Abstract Things
-* Hollywood
-* Bulletin Board
+* Letterbox - Communication by untyped messages between objects
+* Closed Maps - An Object is just a Map of functions
+* Abstract Things - Objects implement Interfaces (Traits)
+* Hollywood - Objects need to register at a fancy framework, which calls the objects
+* Bulletin Board - Objects communicate via an Eventbus
 
 ### Part 5 - Reflection and Metaprogramming
 
-* Introspective
-* Reflective
-* Aspects
-* Plugins
+When code knows about itself and hacks itself. 
+
+* Introspective - Code know about itself
+* Reflective - Code can modify itself
+* Aspects - Add general aspects like logging to existing code, without modifying the source code
+* Plugins - Load external code without recompiling 
 
 ### Part 6 - Adversity 
 
-* Constructivist
-* Tantrum
-* Passive Aggressive
-* Declared Intentions
-* Quarantine
+How to prevent errors or deal with it.
+
+* Constructivist - If something goes wrong, use fallbacks and defaults
+* Tantrum - Handle problems when the occur (by logging and) forwarding the error the the caller
+* Passive Aggressive - Forward problems to the caller as default (Exceptions)
+* Declared Intentions - Enforce types
+* Quarantine - Handle IO different (Kind of IO monad)
 
 ### Part 7 - Data-Centric
 
-* Persistent Table
-* Spreadsheet
-* Lazy Rivers
+It's about relations between data.
+
+* Persistent Table - Put data in a (relational) database and query it
+* Spreadsheet - Like dependent cells in a excel sheet
+* Lazy Rivers - Streams of data instead of loading everything into memory at once
 
 ### Part 8 - Concurrency
 
@@ -69,7 +83,7 @@ This is the Rust Version. For the original python version and the companion book
 
 ### Part 10 - Rusty
 
-* [Rusty](src/bin/42-rusty.md) - Idiomatic efficient Rust solution
+* [Rusty](src/bin/42-rusty.md) - Idiomatic efficient Rust solution with complete error handling
 
 
 
