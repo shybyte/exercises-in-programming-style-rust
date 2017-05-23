@@ -15,7 +15,7 @@ Feel the pain of programming in 1970.
 
 ### Part 2 - Basic Styles
 
-I happens every day. You have seen it already.
+It happens every day. You have seen it already.
 
 * [Monolithic](src/bin/03-monolith.md) - One big program with no named abstractions and no clever library usage
 * [Cookbook](src/bin/04-cookbook.md) - Procedural code with global state
@@ -55,11 +55,11 @@ When code knows about itself and hacks itself.
 
 How to prevent errors or deal with it.
 
-* Constructivist - If something goes wrong, use fallbacks and defaults
-* Tantrum - Handle problems when the occur (by logging and) forwarding the error the the caller
-* Passive Aggressive - Forward problems to the caller as default (Exceptions)
-* Declared Intentions - Enforce types
-* Quarantine - Handle IO different (Kind of IO monad)
+* Constructivist - Check Arguments. If something goes wrong, use fallbacks and defaults
+* Tantrum - Check Arguments. Handle problems when the occur by (logging and) forwarding the error to the caller
+* Passive Aggressive - Check Arguments. Forward problems to the caller as default (Exceptions)
+* Declared Intentions - Declare and enforce types
+* Quarantine - Handle IO differently (Kind of IO monad)
 
 ### Part 7 - Data-Centric
 
