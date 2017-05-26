@@ -26,9 +26,9 @@ It happens every day. You have seen it already.
 
 Combine functions in interesting ways.
 
-* Infinite Mirror - Recursively, call yourself.
+* [Infinite Mirror](src/bin/07-infinite-mirror.md) - Recursively, call yourself.
 * Kick Forward - Callback style like in good old javascript
-* [The One](src/bin/09-the-one.md) - Kind of a Monad, Functional composition
+* [The One](src/bin/09-the-one.md) - Use a kind of a Monad to create a pipeline, Functional composition
 
 
 ### Part 4 - Objects and Object Interaction
