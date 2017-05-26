@@ -71,17 +71,23 @@ It's about relations between data.
 
 ### Part 8 - Concurrency
 
-* Actors
-* Dataspaces
-* Map Reduce
-* Double Map Reduce
+Doing work in parallel. 
+
+* Actors - Like Letterbox but things have independent threads of execution
+* Dataspaces - Concurrent units read/store data in synchronized common data spaces
+* Map Reduce - Divide data in blocks, map over it (parallelized) und reduce it to result
+* Double Map Reduce - Like Map Reduce, but result of first map step is regrouped for a second parallelized map step which makes reduce trivial or unnecessary 
 
 ### Part 9 - Interactivity
 
-* Trinity
-* Restful
+Interacting with a user or client.
+
+* Trinity - The famous MVC = Model-View-Controller Pattern
+* Restful - Client accesses resources on server by using uniform resource identifiers
 
 ### Part 10 - Rusty
+
+Do it in the Rusty Way.
 
 * [Rusty](src/bin/42-rusty.md) - Idiomatic efficient Rust solution with complete error handling
 
