@@ -80,7 +80,7 @@ Doing work in parallel.
 
 ### Part 9 - Interactivity
 
-Interacting with a user or client.
+Interacting with an user or client.
 
 * Trinity - The famous MVC = Model-View-Controller Pattern
 * Restful - Client accesses resources on server by using uniform resource identifiers
